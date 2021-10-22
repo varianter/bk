@@ -18,6 +18,10 @@ For å komme dit må vi som regel svare på noen andre spørsmål, som f. Eks:
 * Hva må vi måle?
 * Hva veit vi ingenting om, men kan potensielt sett estimere?
 
+## Hvor tanken kom fra, og hvilken vei den kan gå
+
+<img width="1590" alt="Skjermbilde 2021-10-22 kl  18 06 20" src="https://user-images.githubusercontent.com/72508979/138487569-41c0bd86-0418-42df-8ba8-8de7c2fdadb6.png">
+
 ----
 
 Denne sida kommer til å oppdateres fortløpende, men er en start på arbeidet vi har foran vårs.
