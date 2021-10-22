@@ -22,6 +22,28 @@ For å komme dit må vi som regel svare på noen andre spørsmål, som f. Eks:
 
 <img width="1590" alt="Skjermbilde 2021-10-22 kl  18 06 20" src="https://user-images.githubusercontent.com/72508979/138487569-41c0bd86-0418-42df-8ba8-8de7c2fdadb6.png">
 
+# Hva har vi gjort allerede?
+- [x] Sertifisert oss som Miljøfyrtårn
+- [x] Fått på plass et aldeles nydelig kildesorteringssystem
+- [x] Bekrefta at all strømforbruk på kontoret er basert på fornybare kilder. Basert på oversikten vi får fra Fjordkraft. Som en statistikk så har vi faktisk ved å kjøpe fornybar strøm redusert 10,7 tonn med karbonutslipp, sammenligna med om det hadde vært fossilt.
+
+## Hva skal vi gjøre framover?
+I første omgang skal vi utforske hva det innebærer for Variant som selskap og bli klimanøytrale. På sikt er det såklart ønskelig å bli klima**positive**, altså gjøre mer enn å kompensere for det utslippet vi har som utgangspunkt. På veien dit må man uansett innom klimanøytralitet. For å komme dit så har vi konkretisert noen fokusområder for de neste månedene i OKR-arbeidet vårt, de er da delt opp i Tiltak og Indikasjon:
+
+### Tiltak
+
+- Evaluere og inngå avtale for kjøp av karbon-offset
+- Lag en liste over hva som inngår (i vårt forbruk), med kjente alternativer
+- Kommunisere prosess og resultater av den
+- Lage en gevinstbeskrivelse (f. eks rekruttering, brand, høyere timepris, bedre oppdrag)
+- Lage en oversikt over karbonnøytrale valg
+- Lage en oversikt over karbonnøytrale valg hos kunde som kan brukes som markedsmateriell
+
+### Indikasjon
+
+- Vi skal kunne måle/dokumentere 80% av vårt karbonbidrag for et år
+- Løsningen vår skal kunne estimere hva 100% er, og dekke inn/kompensere for 100%
+- Selge 1 karbonbidrag-oppdrag
 ----
 
-Denne sida kommer til å oppdateres fortløpende, men er en start på arbeidet vi har foran vårs.
+Denne sida oppdateres fortløpende, og er en start på arbeidet vi har foran vårs.
