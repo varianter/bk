@@ -46,4 +46,4 @@ I første omgang skal vi utforske hva det innebærer for Variant som selskap og 
 - Selge 1 karbonbidrag-oppdrag
 ----
 
-Denne sida oppdateres fortløpende, og er en start på arbeidet vi har foran vårs.
+_Denne sida oppdateres fortløpende, og er en start på arbeidet vi har foran vårs._
