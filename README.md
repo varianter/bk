@@ -1,4 +1,4 @@
-# bk = Bærekraft
+# BK for Bærekraft
 Siden Æ ikke kan brukes i repository-navnet, og at github heller da gir meg alternativet "b-rekraft", så går jeg heller for den forkorta versjonen. Må ikke forveksles med Burger King eller Bruksklasse.
 
 ## Hva kommer du til å finne her?
